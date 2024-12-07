@@ -58,7 +58,7 @@ git config --global user.email "your-email@example.com"
 Clone this repository or create the files manually:
 ```bash
 # Clone repository
-git clone https://github.com/atulkamble/terraform-webserver-setup
+git clone https://github.com/YogitaBadhe/Terraform-WebServer-Setup.git
 cd terraform-webserver-setup
 ```
 
